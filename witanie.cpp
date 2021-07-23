@@ -6,7 +6,6 @@ using namespace std;
 int main ()
 
 {
-   
     string imie;
     string nazwisko;
 
@@ -20,5 +19,4 @@ int main ()
     
     cout << "Milo mi Cie poznac" << ' '; 
     cout << imie << endl << endl; 
-
 }
