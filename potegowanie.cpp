@@ -3,6 +3,7 @@
 using namespace std;
 
 int main()
+	
 {
 	int podstawa, wykladnik, wynik=1;
 	cout << "Podaj podstawe ktora chcesz spotegowac: " << endl;
